@@ -12,3 +12,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 Description
 
 Repository for the third homework during the course (SS2020).
+
+This homework is based on the message-ix tutorials (https://message.iiasa.ac.at/en/stable/tutorials.html) introducing a new technology (gas power plants) and emission prices.
